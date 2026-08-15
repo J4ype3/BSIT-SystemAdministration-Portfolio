@@ -1,1 +1,1 @@
-
+rm -f Week02 && mkdir -p Week02/{diagrams,images,references} && touch Week02/README.md Week02/EnterpriseInfrastructurePlan.pdf Week02/diagrams/.gitkeep Week02/images/.gitkeep Week02/references/.gitkeep
