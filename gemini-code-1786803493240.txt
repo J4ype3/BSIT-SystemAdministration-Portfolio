@@ -1,9 +1,0 @@
-Week02/
-├── README.md
-├── EnterpriseInfrastructurePlan.pdf
-├── diagrams/
-│   └── .gitkeep
-├── images/
-│   └── .gitkeep
-└── references/
-    └── .gitkeep
